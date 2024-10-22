@@ -1,0 +1,11 @@
+header, nav, main {
+    max-width: 960px;
+    margin: auto;
+}
+
+/* NAVIGATION STUFF GOES HERE  */
+
+@for $i from 1 through 12 {
+    $w: calc($i/12) * 100%;
+    .lrg-#{$i} {flex-basis: $w;}
+}
