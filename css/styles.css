@@ -472,7 +472,7 @@ main img {
 
 .fillcolor {
   background-color: #136978;
-  margin: 0 10px;
+  margin: 0 10px 10px 10px;
 }
 .fillcolor p {
   color: white;

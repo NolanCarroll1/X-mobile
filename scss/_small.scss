@@ -124,7 +124,7 @@ main img{
 }
 .fillcolor{
     background-color: $secondaryColor;
-    margin: 0 $gutter;
+    margin: 0 $gutter $gutter $gutter;
     p{color: white;}}
     .line, .round, .fill, .shadow, .fillcolor{
         padding: 8px 8px;
