@@ -501,6 +501,7 @@ main img {
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
   background-color: #ff7d26;
+  text-align: center;
 }
 
 footer {
